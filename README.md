@@ -25,5 +25,5 @@ If you need a Unity/GameDev/C++/CyberSecurity lecturer, feel free to contact me.
 - 📫 E-mail: **justinlin950612@gmail.com**
 - 📫 Discord: **FlyDragonOuO#5027** 
 ## 我是
-- 鳳山高中電資社社長
+- 鳳山高中電資社社長&教學
 - 一個做遊戲開發影片的Youtuber
