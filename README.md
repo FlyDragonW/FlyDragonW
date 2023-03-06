@@ -20,7 +20,7 @@ If you need a Unity/GameDev/C++/CyberSecurity lecturer, feel free to contact me.
 
 ## 關於我
 嗨我是FlyDragon，目前就讀鳳山高中、熱愛遊戲開發。<br>
-如果你需要 Unity/遊戲開發/C++/資訊安全 的講師，隨時歡迎聯繫我。
+如果你需要 Unity/遊戲開發/C++/資訊安全 的教學，隨時歡迎聯繫我。
 ## 聯絡方式
 - 📫 E-mail: **justinlin950612@gmail.com**
 - 📫 Discord: **FlyDragonOuO#5027** 
