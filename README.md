@@ -1,5 +1,5 @@
 ## About Me:
-Hi, I'm FlyDragon, a student who interested in GameDevelop and currently studying in FSSH.<br>
+Hi, I'm FlyDragon, a student who interested in GameDevelop&CyberSecurity, currently studying in FSSH.<br>
 ## How To Reach Me:
 - 📫 E-mail: **justinlin950612@gmail.com**
 - 📫 Discord: **FlyDragonOuO#5027** 
@@ -18,7 +18,7 @@ Hi, I'm FlyDragon, a student who interested in GameDevelop and currently studyin
 <p></p>
 
 ## 關於我
-嗨我是FlyDragon，目前就讀鳳山高中、熱愛遊戲開發。<br>
+嗨我是FlyDragon，目前就讀鳳山高中、熱愛遊戲開發和資訊安全。<br>
 
 ## 聯絡方式
 - 📫 E-mail: **justinlin950612@gmail.com**
