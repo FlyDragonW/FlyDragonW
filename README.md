@@ -10,12 +10,8 @@ Hi, I'm FlyDragon, a student who interested in GameDevelop&CyberSecurity, curren
 
 ## Some Statics:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=flydragonw&show_icons=true&locale=en&layout=compact&bg_color=90,81ecec,FCFFFD" alt="flydragonw" /></p>
-<p></p>
-<br/>
-<p/>
-<br/>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=flydragonw&show_icons=true&locale=en&bg_color=90,81ecec,FCFFFD" alt="flydragonw" /></p>
-<p></p>
+
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=flydragonw&show_icons=true&locale=en&bg_color=90,81ecec,FCFFFD" alt="flydragonw" /></p>
 
 ## 關於我
 嗨我是FlyDragon，目前就讀鳳山高中、熱愛遊戲開發和資訊安全。<br>
