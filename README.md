@@ -2,7 +2,7 @@
 Hi, I'm FlyDragon, a student who interested in GameDevelop&CyberSecurity, currently studying in FSSH.<br>
 ## How To Reach Me:
 - 📫 E-mail: **justinlin950612@gmail.com**
-- 📫 Discord: **FlyDragonOuO#5027** 
+- 📫 Discord: **flydragonw** 
 
 ## Connect With Me:
 - FSCS Leader&Lecturer
@@ -24,7 +24,7 @@ Hi, I'm FlyDragon, a student who interested in GameDevelop&CyberSecurity, curren
 
 ## 聯絡方式
 - 📫 E-mail: **justinlin950612@gmail.com**
-- 📫 Discord: **FlyDragonOuO#5027** 
+- 📫 Discord: **flydragonw** 
 ## 我是
 - 鳳山高中電資社社長&教學
 - 一個做遊戲開發影片的Youtuber
