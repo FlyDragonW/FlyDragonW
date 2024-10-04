@@ -1,12 +1,8 @@
 ## About Me:
-Hi, I'm FlyDragon, a student who interested in GameDevelop&CyberSecurity, currently studying in FSSH.<br>
+Hi, I'm Flydragon, a student who interested in GameDevelop&CyberSecurity.  
 ## How To Reach Me:
 - 📫 E-mail: **justinlin950612@gmail.com**
-- 📫 Discord: **flydragonw** 
-
-## Connect With Me:
-- FSCS Leader&Lecturer
-- Game Dev Youtuber
+- 📫 Discord: **flydragonw**  
 
 ## Some Statics:
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=flydragonw&show_icons=true&locale=en&layout=compact&bg_color=90,81ecec,FCFFFD" alt="flydragonw" />
@@ -14,11 +10,9 @@ Hi, I'm FlyDragon, a student who interested in GameDevelop&CyberSecurity, curren
 
 
 ## 關於我
-嗨我是FlyDragon，目前就讀鳳山高中、熱愛遊戲開發和資訊安全。<br>
+嗨我是 Flydragon，熱愛遊戲開發和資訊安全。<br>
 
 ## 聯絡方式
 - 📫 E-mail: **justinlin950612@gmail.com**
 - 📫 Discord: **flydragonw** 
-## 我是
-- 鳳山高中電資社社長&教學
-- 一個做遊戲開發影片的Youtuber
+
