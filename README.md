@@ -1,5 +1,5 @@
 ## About Me:
-Hi, I'm Flydragon, a student who interested in GameDevelop&CyberSecurity.  
+Hi, I'm Flydragon, a student who interested in GameDevelop & CyberSecurity.  
 ## How To Reach Me:
 - 📫 E-mail: **justinlin950612@gmail.com**
 - 📫 Discord: **flydragonw**  
