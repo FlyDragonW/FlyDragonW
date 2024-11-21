@@ -4,7 +4,7 @@ Hi, I'm Flydragon, a student who interested in GameDevelop & CyberSecurity.
 - 📫 E-mail: **justinlin950612@gmail.com**
 - 📫 Discord: **flydragonw**  
 
-## Some Statics:
+## Some Statistics:
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=flydragonw&show_icons=true&locale=en&layout=compact&bg_color=90,81ecec,FCFFFD" alt="flydragonw" />
 <img src="https://github-readme-stats.vercel.app/api?username=flydragonw&show_icons=true&locale=en&bg_color=90,81ecec,FCFFFD" alt="flydragonw" />  
 
